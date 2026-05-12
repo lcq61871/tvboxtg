@@ -51,13 +51,14 @@
             "changeable": 1
         },
         {
-            "key": "玩偶",
-            "name": "💓‍玩偶┃4K💓‍",
-            "type": 3,
-            "api": "csp_NewWoggGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+	   "key":"cctv",
+	   "name":"📺央视｜大全",
+	   "type":3,
+	   "api":"csp_CCTV",
+	   "searchable":0,"filterable":0,
+	   "jar": "./libs/jar/HCCX.jar",
+	   "ext":"./libs/hccx/央视大全.json"
+	},
         {
             "key": "NewZhiZhen",
             "name": "💓至臻┃4K💓",
