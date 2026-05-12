@@ -43,6 +43,15 @@
             "indexs": 0
         },
         {
+	   "key":"cctv",
+	   "name":"📺央视｜大全",
+	   "type":3,
+	   "api":"csp_CCTV",
+	   "searchable":0,"filterable":0,
+	   "jar": "./libs/jar/HCCX.jar",
+	   "ext":"./libs/hccx/央视大全.json"
+	},
+        {
             "key": "WexHanXiaoQuan",
             "name": "💥韩剧┃秒播💥",
             "type": 3,
